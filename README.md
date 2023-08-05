@@ -11,8 +11,8 @@ For studying Leetcode problems
 | 7 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| <p align=center> Medium </p> | <p align=center>:heavy_check_mark: </p>  | Array, Dynamic Programming|
 | 8 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| <p align=center> Medium </p>|<p align=center> :heavy_check_mark: </p>| Array, Prefix Sum|
 | 9 | [139. Word Break](https://leetcode.com/problems/word-break) |<p align=center> Medium </p>|        |Array, Hash Table, String, Dynamic Programming, Trie, Memoization|
-| 10 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium  |<p align=center>:heavy_check_mark: </p>| Hash Table, String, Sorting | Using Counter|
-|   |                                                                                                                           |            |        |                             |
+| 10 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | <p align=center> Medium </p>  |<p align=center>:heavy_check_mark: </p>| Hash Table, String, Sorting | Using Counter|
+| 11 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|<p align=center> Medium </p>|        | Array, Divide and Conquer, Dynamic Programming|
 |   |                                                                                                                           |            |        |                             |
 |   |                                                                                                                           |            |        |                             |
 |   |                                                                                                                           |            |        |                             |
