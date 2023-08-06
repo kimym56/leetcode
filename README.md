@@ -12,7 +12,7 @@ For studying Leetcode problems
 | 8 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| <p align=center> Medium </p>|<p align=center> :heavy_check_mark: </p>| Array, Prefix Sum|
 | 9 | [139. Word Break](https://leetcode.com/problems/word-break) |<p align=center> Medium </p>|        |Array, Hash Table, String, Dynamic Programming, Trie, Memoization|
 | 10 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | <p align=center> Medium </p>  |<p align=center>:heavy_check_mark: </p>| Hash Table, String, Sorting | Using Counter|
-| 11 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|<p align=center> Medium </p>|        | Array, Divide and Conquer, Dynamic Programming|
+| 11 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|<p align=center> Medium </p>|        | Array, Divide and Conquer, Dynamic Programming|Similar 121. Best Time to Buy and Sell Stock|
 | 12 |[2784. Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good) |<p align=center> Easy</p>|<p align=center> :heavy_check_mark: </p>|Array, Hash Table, Sorting|
-|   |                                                                                                                           |            |        |                             |
-|   |                                                                                                                           |            |        |                             |
+| 13  | [12. Path Sum](https://leetcode.com/problems/path-sum/)|<p align=center> Easy</p>|        |Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+|   |                                                                                      |            |        |                             |
