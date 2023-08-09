@@ -15,4 +15,4 @@ For studying Leetcode problems
 | 11 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|<p align=center> Medium </p>|        | Array, Divide and Conquer, Dynamic Programming|Similar 121. Best Time to Buy and Sell Stock|
 | 12 |[2784. Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good) |<p align=center> Easy</p>|<p align=center> :heavy_check_mark: </p>|Array, Hash Table, Sorting|
 | 13  | [12. Path Sum](https://leetcode.com/problems/path-sum/)|<p align=center> Easy</p>|        |Tree, Depth-First Search, Breadth-First Search, Binary Tree |
-|   |                                                                                      |            |        |                             |
+| 14 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)             |<p align=center> Medium </p> |<p align=center> :grey_question:</p>|Hash Table, String, Sliding Window| set() vs. {}|
